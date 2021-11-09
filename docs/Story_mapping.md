@@ -119,10 +119,10 @@ Take time to have participants create a persona, or just tell them to use themse
 ## 1. Idéation
 *En petit groupe*
 
-Quelles activités avez vous à faire pour préparer un voyage? <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Chaque activité sur un post-it différent <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Commencer par un verbe <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Ne limitez pas votre imagination ! <!-- .element: class="fragment  fade-in-then-semi-out" -->
+Quelles activités avez vous à faire pour préparer un voyage?
+- Chaque activité sur un post-it différent
+- Commencer par un verbe
+- Ne limitez pas votre imagination !
 
 Notes:
 - voyage = partir de chez soi pour plus d'une nuit
@@ -172,10 +172,10 @@ Notes:
 *Tous ensemble*
 
 Développer les possibilités verticalement :
-- Variations  <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Exceptions <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Options <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Détails <!-- .element: class="fragment  fade-in-then-semi-out" -->
+- Variations
+- Exceptions
+- Options
+- Détails
 
 
 <!--  .slide: data-background-image="docs/media/step_4_ideation.svg" data-background-repeat="no-repeat" data-background-size="contain" -->
@@ -183,10 +183,10 @@ Développer les possibilités verticalement :
 ---
 ## 5. Découper pour un objectif spécifique
 # On part ce soir faire la fête au Méxique !
-- Ecrire le but sur un post-it tout en haut à gauche <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Tirer deux traits entre les thèmes et les activités <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Mettre les activités correspondantes au but entre les deux traits <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Laisser les activités hors sujet sous le trait <!-- .element: class="fragment  fade-in-then-semi-out" -->
+- Ecrire le but sur un post-it tout en haut à gauche
+- Tirer deux traits entre les thèmes et les activités
+- Mettre les activités correspondantes au but entre les deux traits
+- Laisser les activités hors sujet sous le trait
 
 
 <!--  .slide: data-background-image="docs/media/step_5_ideation.svg" data-background-repeat="no-repeat" data-background-size="contain" -->
@@ -219,6 +219,7 @@ Parler de MVP
 - [Firefox pesonas](https://blog.mozilla.org/ux/2013/08/firefox-user-types-in-north-america/)
 - [Wikimedias personas]()
 - Inspired by “User story mapping” – Agile tour Montréal 2018, by Alain Benoit and Jean-Christophe Lauffer
+- User Story Mapping, by Jeff Patton (O’Reilly, 2014).
 
 [comment]: <> (![personas FF]&#40;docs/media/personas_FF.png&#41;  <!-- .element: style="float: right; width: 45%" -->)
 [comment]: <> (![Personas wikimedia]&#40;docs/media/personas_wikimedia.png&#41; <!-- .element: style="float:left;width: 45%" -->)
