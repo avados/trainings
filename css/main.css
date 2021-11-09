@@ -261,16 +261,4 @@ textarea {
   }
 }
 
-/* all title alf visible, what is important is the content, not the title */
-.reveal h2 {
-  opacity: 0.5;
-}
 
-/* fix a bug in revealjs https://github.com/hakimel/reveal.js/issues/1099 */
-.reveal.reveal img
-{
-    border: none;
-    box-shadow: none;
-    max-height: calc(60vh);
-    max-width: calc(66vw);
-}

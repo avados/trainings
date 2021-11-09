@@ -1,0 +1,33 @@
+
+#left {
+    margin: 10px 0 15px 20px;
+    text-align: center;
+    float: left;
+    z-index:-10;
+    width:48%;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+#right {
+    margin: 10px 0 15px 0;
+    float: right;
+    text-align: center;
+    z-index:-10;
+    width:48%;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+
+/* fix a bug in revealjs https://github.com/hakimel/reveal.js/issues/1099 */
+.reveal.reveal img
+{
+    border: none;
+    box-shadow: none;
+    max-height: 66vh;
+    max-width: 66vw;
+}
+
+/* all title alf visible, what is important is the content, not the title */
+.reveal h2 {
+  opacity: 0.5;
+}
