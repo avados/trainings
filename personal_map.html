@@ -39,19 +39,19 @@ body {
 
 <body >
 
-<object style="width: 100%; height: 100%;" id='svgId' type="image/svg+xml" data="docs/media/index.svg">
+<object style="width: 100%; height: 100%;" id='svgId' type="image/svg+xml" data="docs/media/personal_map.drawio.svg">
     <!-- Your fall back here -->
-    <img src="docs/media/index.svg" />
+    <img src="docs/media/personal_map.drawio.svg" />
 </object>
 
 <script>
-// document.getElementById('svgId').addEventListener('load', function(){
-//   // Will get called after embed element was loaded
-//   svgPanZoom(document.getElementById('svgId'),{
-//           zoomEnabled: true,
-//           controlIconsEnabled: true
-//         });
-// })
+document.getElementById('svgId').addEventListener('load', function(){
+  // Will get called after embed element was loaded
+  svgPanZoom(document.getElementById('svgId'),{
+          zoomEnabled: true,
+          controlIconsEnabled: true
+        });
+})
 </script>
 
 </body>
