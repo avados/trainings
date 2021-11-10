@@ -19,6 +19,7 @@
 
   <meta name="theme-color" content="#fafafa">
   <script src="js/svg-pan-zoom.min.js"></script>
+  <script src="js/hammer.min.js"></script>
 
 <style>
   html {
@@ -49,7 +50,27 @@ document.getElementById('svgId').addEventListener('load', function(){
   // Will get called after embed element was loaded
   svgPanZoom(document.getElementById('svgId'),{
           zoomEnabled: true,
-          controlIconsEnabled: true
+          controlIconsEnabled: true,
+          customEventsHandler: {
+            // Halt all touch events
+            haltEventListeners: ['touchstart', 'touchend', 'touchmove', 'touchleave', 'touchcancel']
+
+            // Init custom events handler
+          , init: function(options) {
+              // Init Hammer
+              this.hammer = Hammer(options.svgElement)
+
+              // Handle double tap
+              this.hammer.on('doubletap', function(ev){
+                options.instance.zoomIn()
+              })
+            }
+
+            // Destroy custom events handler
+          , destroy: function(){
+              this.hammer.destroy()
+            }
+          }
         });
 })
 </script>
