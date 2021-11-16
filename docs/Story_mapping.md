@@ -213,7 +213,6 @@ Parler de MVP
 - Estimations <!-- .element: class="fragment  fade-in-then-semi-out" -->
 - Différents utilisateurs (enfants?) <!-- .element: class="fragment  fade-in-then-semi-out" -->
 
-
 ---
 # Resources & attributions
 - [Firefox pesonas](https://blog.mozilla.org/ux/2013/08/firefox-user-types-in-north-america/)
