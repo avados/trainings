@@ -69,6 +69,7 @@ Estimates – DETAILS
 - Un grand mur <!-- .element: class="fragment  fade-in-then-semi-out" -->
 - Beaucoup de post-it de couleurs <!-- .element: class="fragment  fade-in-then-semi-out" -->
 - Beaucoup de marqueurs <!-- .element: class="fragment  fade-in-then-semi-out" -->
+- Du temps <!-- .element: class="fragment  fade-in-then-semi-out" -->
 
 ---
 ## Participants
@@ -197,6 +198,17 @@ Développer les possibilités verticalement :
 Notes:
 Parler de MVP
 
+
+<!--  .slide: data-background-image="docs/media/step_5_ideation_3.svg" data-background-repeat="no-repeat" data-background-size="contain" -->
+
+---
+## Quoi d'autre ?
+- Estimations <!-- .element: class="fragment  fade-in-then-semi-out" -->
+- Différents utilisateurs (enfants?) <!-- .element: class="fragment  fade-in-then-semi-out" -->
+
+### Variantes <!-- .element: class="fragment  fade-in-then-semi-out" -->
+- Certains préférent explorer les alternatives puis en sortir des thèmes <!-- .element: class="fragment  fade-in-then-semi-out" -->
+
 ---
 ## Résumé
 
@@ -209,15 +221,9 @@ Parler de MVP
 |5|Découper pour un objectif spécifique <!-- .element: class="fragment  fade-in-then-semi-out" -->|
 
 ---
-## Quoi d'autre ?
-- Estimations <!-- .element: class="fragment  fade-in-then-semi-out" -->
-- Différents utilisateurs (enfants?) <!-- .element: class="fragment  fade-in-then-semi-out" -->
-
----
 # Resources & attributions
 - [Firefox pesonas](https://blog.mozilla.org/ux/2013/08/firefox-user-types-in-north-america/)
 - [Wikimedias personas]()
-- Inspired by “User story mapping” – Agile tour Montréal 2018, by Alain Benoit and Jean-Christophe Lauffer
 - User Story Mapping, by Jeff Patton (O’Reilly, 2014).
 
 [comment]: <> (![personas FF]&#40;docs/media/personas_FF.png&#41;  <!-- .element: style="float: right; width: 45%" -->)
